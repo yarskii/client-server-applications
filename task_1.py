@@ -103,3 +103,4 @@ print(text)
 with open('test_file.txt', 'r', encoding='utf-8') as text:
     for i in text:
         print(i)
+
